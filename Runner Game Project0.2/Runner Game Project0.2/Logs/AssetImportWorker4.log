@@ -1,0 +1,249 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.928; Version 2004; 64bit' Language: 'it' Physical Memory: 16304 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+C:/Mauro/Maze's Soul/Mauro Game/Runner game project 0.2/Runner Game Project0.2
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+60054
+Successfully changed project path to: C:/Mauro/Maze's Soul/Mauro Game/Runner game project 0.2/Runner Game Project0.2
+C:/Mauro/Maze's Soul/Mauro Game/Runner game project 0.2/Runner Game Project0.2
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 151.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Mauro/Maze's Soul/Mauro Game/Runner game project 0.2/Runner Game Project0.2/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   
+    VRAM:     4055 MB
+    Driver:   27.21.14.5763
+Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56876
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002598 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 131.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.462 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004222 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 142.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.272 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 1.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3424 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 226.2 MB.
+System memory in use after: 226.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3870.
+Total: 4.633600 ms (FindLiveObjects: 0.529800 ms CreateObjectMapping: 0.186800 ms MarkObjects: 3.777500 ms  DeleteObjects: 0.137800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/InitialCutscene.playable
+  artifactKey: Guid(ad60e7a0aa29890499ccb3ffba0124b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InitialCutscene.playable using Guid(ad60e7a0aa29890499ccb3ffba0124b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f0346486dfe105ee3f4b2f9f34b5d34') in 0.141590 seconds
+  Import took 0.150865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/StandUpCutscene.playable
+  artifactKey: Guid(6ca86d8efd479a7448169c792a1bf20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StandUpCutscene.playable using Guid(6ca86d8efd479a7448169c792a1bf20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6de73b80e7a867176662fcf0856b1a2c') in 0.013769 seconds
+  Import took 0.023949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/TerrainMaterial.mat
+  artifactKey: Guid(51d3851b86c38c140aa929b6d81e53b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainMaterial.mat using Guid(51d3851b86c38c140aa929b6d81e53b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1763ba5767be1f87dea597f0c8f72659') in 1.011075 seconds
+  Import took 1.018166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/NewLayer.terrainlayer
+  artifactKey: Guid(71350ce5d19902641840ef3f574d2619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewLayer.terrainlayer using Guid(71350ce5d19902641840ef3f574d2619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a159f98f3bac490f4b6145d40ab277') in 0.259182 seconds
+  Import took 0.267897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/NewLayer 2.terrainlayer
+  artifactKey: Guid(2ee11416c584211498bfa37ca5d69284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewLayer 2.terrainlayer using Guid(2ee11416c584211498bfa37ca5d69284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1475d36ca15c1b0267d9073bb66c6cb') in 0.209243 seconds
+  Import took 0.221473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/TabletCutscene.playable
+  artifactKey: Guid(ac9a1b7fe3a8e734abd7c4a0c55f89b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TabletCutscene.playable using Guid(ac9a1b7fe3a8e734abd7c4a0c55f89b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '551eb1aeee9765dae4ce3c1469c1f835') in 0.011998 seconds
+  Import took 0.019367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/NewLayer 1.terrainlayer
+  artifactKey: Guid(c13b1c9551b1db64c96355f92bb7188a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewLayer 1.terrainlayer using Guid(c13b1c9551b1db64c96355f92bb7188a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1963693f242cc6626d37a5baac845679') in 0.160010 seconds
+  Import took 0.169685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/NewLayer 3.terrainlayer
+  artifactKey: Guid(d2930508de231f74e99b3f9f18da68a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewLayer 3.terrainlayer using Guid(d2930508de231f74e99b3f9f18da68a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cccebb2657f65e9aa0a3bb857bf8a94') in 0.195510 seconds
+  Import took 0.206219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/TerrainData_7102c88e-9e45-439f-a0e4-84ffee5e7014.asset
+  artifactKey: Guid(a175b78c4e44f0c4bbb06135a4546883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_7102c88e-9e45-439f-a0e4-84ffee5e7014.asset using Guid(a175b78c4e44f0c4bbb06135a4546883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a007ef85f99ed09894265de97fe8629') in 0.042815 seconds
+  Import took 0.051257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/UniversalRenderPipelineAsset.asset
+  artifactKey: Guid(a88553557969fe3439d4c7c6807d83a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UniversalRenderPipelineAsset.asset using Guid(a88553557969fe3439d4c7c6807d83a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0878e668c2df5a573d78b37bbd9387f1') in 0.009111 seconds
+  Import took 0.016401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/NewLayer 4.terrainlayer
+  artifactKey: Guid(1400c980401f1f341bdd542a8cc5e134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewLayer 4.terrainlayer using Guid(1400c980401f1f341bdd542a8cc5e134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6b3f78588cce7233b31d5b1c2d57a97') in 0.226451 seconds
+  Import took 0.237632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/UniversalRenderPipelineAsset_Renderer.asset
+  artifactKey: Guid(1363f7ad7f774644695b791b830369c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UniversalRenderPipelineAsset_Renderer.asset using Guid(1363f7ad7f774644695b791b830369c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b446126c9822cde8bf4d45d6275a4671') in 0.014874 seconds
+  Import took 0.025257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(06d78c36a07663a4f9b3a52ff977167b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(06d78c36a07663a4f9b3a52ff977167b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f2076d9706c634138cb32cad30c9c3d') in 0.351123 seconds
+  Import took 0.362562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 662.002081 seconds.
+  path: Assets/Scenes/StartingArea.unity
+  artifactKey: Guid(ae79014814b49fa41bfa2bfa443f0f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StartingArea.unity using Guid(ae79014814b49fa41bfa2bfa443f0f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9852f59028db57244a7cdccbac500f23') in 0.012456 seconds
+  Import took 0.020705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040988 seconds.
+  path: Assets/Scenes/StartingArea.unity
+  artifactKey: Guid(ae79014814b49fa41bfa2bfa443f0f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StartingArea.unity using Guid(ae79014814b49fa41bfa2bfa443f0f3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9852f59028db57244a7cdccbac500f23') in 0.003748 seconds
+  Import took 0.010725 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006902 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.80 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.756 seconds
+Platform modules already initialized, skipping
+Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 2.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3289 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 224.8 MB.
+System memory in use after: 225.0 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3962.
+Total: 5.184700 ms (FindLiveObjects: 1.018300 ms CreateObjectMapping: 0.526000 ms MarkObjects: 3.609300 ms  DeleteObjects: 0.027100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003905 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.738 seconds
+Platform modules already initialized, skipping
+Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3281 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 224.4 MB.
+System memory in use after: 224.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3964.
+Total: 3.863700 ms (FindLiveObjects: 0.694400 ms CreateObjectMapping: 0.199200 ms MarkObjects: 2.941600 ms  DeleteObjects: 0.026900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
